@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605111220452F7P2N</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260511122045VMC7JQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El Gran Circo de las Mariposas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778414639838</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778412441556-wbx7vq6ol</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412441556-wbx7vq6ol</odePageId>
+      <odeBlockId>block-1778412725542-1lr97kj5c</odeBlockId>
+      <blockName>Bienvenidos/as al Gran Circo de las Mariposas</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412441556-wbx7vq6ol</odePageId>
+          <odeBlockId>block-1778412725542-1lr97kj5c</odeBlockId>
+          <odeIdeviceId>idevice-1778412725540-radvk57lb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos y bienvenidas<br />En este proyecto vamos a convertirnos en creadores y creadoras de historias. A través del cuento El Gran Circo de las Mariposas aprenderemos a comprender mejor los cuentos, crear personajes, escribir historias y utilizar herramientas digitales de forma responsable.</p>
+<p>Este proyecto está dirigido a alumnado de 4º de Educación Primaria y trabajaremos juntos valores como el respeto, la empatía, el esfuerzo y el trabajo en equipo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778412725540-radvk57lb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos y bienvenidas<br />En este proyecto vamos a convertirnos en creadores y creadoras de historias. A través del cuento El Gran Circo de las Mariposas aprenderemos a comprender mejor los cuentos, crear personajes, escribir historias y utilizar herramientas digitales de forma responsable.</p>\n<p>Este proyecto está dirigido a alumnado de 4º de Educación Primaria y trabajaremos juntos valores como el respeto, la empatía, el esfuerzo y el trabajo en equipo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778412441556-wbx7vq6ol</odePageId>
+      <odeBlockId>block-1778484869173-pzqbtuhnl</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412441556-wbx7vq6ol</odePageId>
+          <odeBlockId>block-1778484869173-pzqbtuhnl</odeBlockId>
+          <odeIdeviceId>idevice-1778484869171-t4lklttn2</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778484869171-t4lklttn2" title="" href="{{context_path}}/content/resources/El Gran circo de las mariposas portada en JPG.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/El Gran circo de las mariposas portada en JPG.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778484869171-t4lklttn2","img_0":{"img":"{{context_path}}/content/resources/El Gran circo de las mariposas portada en JPG.jpg","thumbnail":"{{context_path}}/content/resources/El Gran circo de las mariposas portada en JPG.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412456516-dpi74d4kl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412456516-dpi74d4kl</odePageId>
+      <odeBlockId>block-1778412823878-o0usgtehx</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412456516-dpi74d4kl</odePageId>
+          <odeBlockId>block-1778412823878-o0usgtehx</odeBlockId>
+          <odeIdeviceId>idevice-1778412823876-xyrfex5aq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante este proyecto vamos a aprender a:<br />-Comprender cuentos y sus ideas principales<br />-Crear personajes originales<br />-Escribir historias<br />-Expresarnos mejor oralmente y por escrito<br />-Trabajar en equipo<br />-Utilizar herramientas digitales de forma responsable</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778412823876-xyrfex5aq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto vamos a aprender a:<br />-Comprender cuentos y sus ideas principales<br />-Crear personajes originales<br />-Escribir historias<br />-Expresarnos mejor oralmente y por escrito<br />-Trabajar en equipo<br />-Utilizar herramientas digitales de forma responsable</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412497308-x65r13izu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestro reto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro reto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412497308-x65r13izu</odePageId>
+      <odeBlockId>block-1778412867829-30rmpbv86</odeBlockId>
+      <blockName>Nuestro reto</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412497308-x65r13izu</odePageId>
+          <odeBlockId>block-1778412867829-30rmpbv86</odeBlockId>
+          <odeIdeviceId>idevice-1778412867828-0l5612x1k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestro reto será <strong>crear nuestro propio cuento del circo</strong>.</p>
+<p>Cada alumno y alumna inventará una historia original con personajes propios, siguiendo las partes del cuento: inicio, nudo y desenlace.</p>
+<p>Al finalizar el proyecto presentaremos nuestras historias al resto de la clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778412867828-0l5612x1k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro reto será <strong>crear nuestro propio cuento del circo</strong>.</p>\n<p>Cada alumno y alumna inventará una historia original con personajes propios, siguiendo las partes del cuento: inicio, nudo y desenlace.</p>\n<p>Al finalizar el proyecto presentaremos nuestras historias al resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412506836-27xnrdrlr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Trabajamos paso a paso</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Trabajamos paso a paso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412506836-27xnrdrlr</odePageId>
+      <odeBlockId>block-1778412926134-yl7a0fqkw</odeBlockId>
+      <blockName>Pasito a paso</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412506836-27xnrdrlr</odePageId>
+          <odeBlockId>block-1778412926134-yl7a0fqkw</odeBlockId>
+          <odeIdeviceId>idevice-1778412926132-vdslg97yz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><em>Así será nuestro proyecto</em></strong><br /><strong>Sesión 1</strong><br />Escuchamos y comprendemos el cuento.</p>
+<p><strong>Sesión 2</strong><br />Resumimos la historia en grupos cooperativos.</p>
+<p><strong>Sesión 3</strong><br />Aprendemos las partes del cuento.</p>
+<p><strong>Sesión 4</strong><br />Creamos personajes del circo.</p>
+<p><strong>Sesiones 5 y 6</strong><br />Escribimos nuestro cuento.</p>
+<p><strong>Sesión 7</strong><br />Revisamos y mejoramos el texto.</p>
+<p><strong>Sesiones 8 y 9</strong><br />Creamos nuestro cuento digital con Canva.</p>
+<p><strong>Sesión 10</strong><br />Presentamos nuestro trabajo.</p>
+<p>Puedes verlo de manera más clara en este pequeño mapa: <a href="{{context_path}}/content/resources/¿Qué vamos a hacer  Mapa Mental para el alumnado (1).pdf" title="Paso a paso" rel="author">Mapa de pasos a seguir</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778412926132-vdslg97yz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><em>Así será nuestro proyecto</em></strong><br /><strong>Sesión 1</strong><br />Escuchamos y comprendemos el cuento.</p>\n<p><strong>Sesión 2</strong><br />Resumimos la historia en grupos cooperativos.</p>\n<p><strong>Sesión 3</strong><br />Aprendemos las partes del cuento.</p>\n<p><strong>Sesión 4</strong><br />Creamos personajes del circo.</p>\n<p><strong>Sesiones 5 y 6</strong><br />Escribimos nuestro cuento.</p>\n<p><strong>Sesión 7</strong><br />Revisamos y mejoramos el texto.</p>\n<p><strong>Sesiones 8 y 9</strong><br />Creamos nuestro cuento digital con Canva.</p>\n<p><strong>Sesión 10</strong><br />Presentamos nuestro trabajo.</p>\n<p>Puedes verlo de manera más clara en este pequeño mapa: <a href=\"{{context_path}}/content/resources/¿Qué vamos a hacer  Mapa Mental para el alumnado (1).pdf\" title=\"Paso a paso\" rel=\"author\">Mapa de pasos a seguir</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412515868-zg6rplfe1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412515868-zg6rplfe1</odePageId>
+      <odeBlockId>block-1778413162997-mrc03xjmc</odeBlockId>
+      <blockName>Los recursos</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412515868-zg6rplfe1</odePageId>
+          <odeBlockId>block-1778413162997-mrc03xjmc</odeBlockId>
+          <odeIdeviceId>idevice-1778413162996-6eb5exmxc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>
+<p>Aquí podrás aprender ideas para escribir, ver ejemplos y utilizar herramientas digitales.</p>
+<p>Pincha en este enlace: <a href="https://padlet.com/saradelgado19/el-gran-circo-de-las-mariposas-hmi93dyevgbfxof" title="Recursos del proyecto">https://padlet.com/saradelgado19/el-gran-circo-de-las-mariposas-hmi93dyevgbfxof</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413162996-6eb5exmxc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>\n<p>Aquí podrás aprender ideas para escribir, ver ejemplos y utilizar herramientas digitales.</p>\n<p>Pincha en este enlace: <a href=\"https://padlet.com/saradelgado19/el-gran-circo-de-las-mariposas-hmi93dyevgbfxof\" title=\"Recursos del proyecto\">https://padlet.com/saradelgado19/el-gran-circo-de-las-mariposas-hmi93dyevgbfxof</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412526388-9hqa2in0n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Creamos nuestro cuento</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creamos nuestro cuento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412526388-9hqa2in0n</odePageId>
+      <odeBlockId>block-1778413326022-4nnhpsvg9</odeBlockId>
+      <blockName>El cuento</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412526388-9hqa2in0n</odePageId>
+          <odeBlockId>block-1778413326022-4nnhpsvg9</odeBlockId>
+          <odeIdeviceId>idevice-1778413326020-62jjmpmim</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Pasos para crear nuestro cuento</strong></em><br />1. Inventamos un personaje<br />2. Pensamos dónde ocurre la historia<br />3. Escribimos el inicio<br />4. Creamos un problema o aventura<br />5. Terminamos el cuento<br />6. Recuerda utilizar tu imaginación y escribir con tus propias palabras.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413326020-62jjmpmim","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Pasos para crear nuestro cuento</strong></em><br />1. Inventamos un personaje<br />2. Pensamos dónde ocurre la historia<br />3. Escribimos el inicio<br />4. Creamos un problema o aventura<br />5. Terminamos el cuento<br />6. Recuerda utilizar tu imaginación y escribir con tus propias palabras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412535677-q47oj08vt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Uso seguro de internet</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso seguro de internet</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412535677-q47oj08vt</odePageId>
+      <odeBlockId>block-1778413390685-hnuplns7m</odeBlockId>
+      <blockName>Usamos internet de manera segura</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412535677-q47oj08vt</odePageId>
+          <odeBlockId>block-1778413390685-hnuplns7m</odeBlockId>
+          <odeIdeviceId>idevice-1778413390684-7twz97g5o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Normas para usar internet correctamente</strong></em><br />-No compartimos datos personales<br />-Respetamos el trabajo de otras personas<br />-Utilizamos imágenes con permiso<br />-Escribimos con nuestras propias palabras<br />-Usamos internet para aprender y crear</p>
+<p>INFOGRAFÍA: <a href="{{context_path}}/content/resources/Sara Delgado Tirado -En circo digital...¡no todo vale! (1).pdf" title="En circo digital...¡no todo vale! ">{{context_path}}/content/resources/Sara Delgado Tirado -En circo digital...¡no todo vale! (1).pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413390684-7twz97g5o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Normas para usar internet correctamente</strong></em><br />-No compartimos datos personales<br />-Respetamos el trabajo de otras personas<br />-Utilizamos imágenes con permiso<br />-Escribimos con nuestras propias palabras<br />-Usamos internet para aprender y crear</p>\n<p>INFOGRAFÍA: <a href=\"{{context_path}}/content/resources/Sara Delgado Tirado -En circo digital...¡no todo vale! (1).pdf\" title=\"En circo digital...¡no todo vale! \">{{context_path}}/content/resources/Sara Delgado Tirado -En circo digital...¡no todo vale! (1).pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412547348-2x4od4vsr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412547348-2x4od4vsr</odePageId>
+      <odeBlockId>block-1778413621774-6xnxjby3e</odeBlockId>
+      <blockName>¿Cómo te voy a evaluar?</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412547348-2x4od4vsr</odePageId>
+          <odeBlockId>block-1778413621774-6xnxjby3e</odeBlockId>
+          <odeIdeviceId>idevice-1778413621772-5liiqnzay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Evaluaremos</strong></em><br />-La creatividad<br />-La expresión escrita<br />-La estructura del cuento<br />-La presentación del trabajo<br />-La participación y el esfuerzo<br />-El uso responsable de herramientas digitales<br />Para ello utilizaremos diferentes instrumentos de evaluación como la rúbrica y la autoevaluación.</p>
+<p>Accede a este documento donde se clarifican los instrumentos a usar: <a href="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación (1).pdf" title=" Instrumentos de evaluación ">{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación (1).pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413621772-5liiqnzay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Evaluaremos</strong></em><br />-La creatividad<br />-La expresión escrita<br />-La estructura del cuento<br />-La presentación del trabajo<br />-La participación y el esfuerzo<br />-El uso responsable de herramientas digitales<br />Para ello utilizaremos diferentes instrumentos de evaluación como la rúbrica y la autoevaluación.</p>\n<p>Accede a este documento donde se clarifican los instrumentos a usar: <a href=\"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación (1).pdf\" title=\" Instrumentos de evaluación \">{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación (1).pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412556788-w09fixrvu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoevaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412556788-w09fixrvu</odePageId>
+      <odeBlockId>block-1778413816693-ab9uy5936</odeBlockId>
+      <blockName>Piensa sobre tu propio trabajo</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412556788-w09fixrvu</odePageId>
+          <odeBlockId>block-1778413816693-ab9uy5936</odeBlockId>
+          <odeIdeviceId>idevice-1778413816691-sc5d6p2rn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Vamos a reflexionar</strong></em><br />También vas a valorar tu propio trabajo utilizando una diana de autoevaluación.</p>
+<p>Pensaremos:</p>
+<p>-Si hemos aprendido<br />-Si nos hemos esforzado<br />-Si hemos trabajado bien<br />-Si nos hemos divertido</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413816691-sc5d6p2rn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Vamos a reflexionar</strong></em><br />También vas a valorar tu propio trabajo utilizando una diana de autoevaluación.</p>\n<p>Pensaremos:</p>\n<p>-Si hemos aprendido<br />-Si nos hemos esforzado<br />-Si hemos trabajado bien<br />-Si nos hemos divertido</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412567564-05sf2sp59</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412567564-05sf2sp59</odePageId>
+      <odeBlockId>block-1778413951237-7s50dl7e5</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412567564-05sf2sp59</odePageId>
+          <odeBlockId>block-1778413951237-7s50dl7e5</odeBlockId>
+          <odeIdeviceId>idevice-1778413951235-yc16espsd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Información para el profesorado</strong></em><br />Este proyecto se basa en metodologías activas y aprendizaje cooperativo.</p>
+<p>Se trabajan:</p>
+<p>-Comprensión lectora<br />-Expresión escrita y oral<br />-Competencia digital<br />-Educación en valores<br />Además, se tienen en cuenta<strong> medidas de atención a la diversidad </strong>mediante apoyos visuales, adaptación de tareas y trabajo cooperativo.</p>
+<p>Las tareas están relacionadas con los criterios de evaluación de Lengua Castellana de 4º de Primaria.</p>
+<p><em><strong>TABLA DE TAREAS Y CRITERIOS DE EVALUACIÓN </strong></em></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /><img src="{{context_path}}/content/resources/mceclip2.png" /><img src="{{context_path}}/content/resources/mceclip3.png" /><img src="{{context_path}}/content/resources/mceclip4.png" /><img src="{{context_path}}/content/resources/mceclip5.png" width="846" height="158" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413951235-yc16espsd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Información para el profesorado</strong></em><br />Este proyecto se basa en metodologías activas y aprendizaje cooperativo.</p>\n<p>Se trabajan:</p>\n<p>-Comprensión lectora<br />-Expresión escrita y oral<br />-Competencia digital<br />-Educación en valores<br />Además, se tienen en cuenta<strong> medidas de atención a la diversidad </strong>mediante apoyos visuales, adaptación de tareas y trabajo cooperativo.</p>\n<p>Las tareas están relacionadas con los criterios de evaluación de Lengua Castellana de 4º de Primaria.</p>\n<p><em><strong>TABLA DE TAREAS Y CRITERIOS DE EVALUACIÓN </strong></em></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /><img src=\"{{context_path}}/content/resources/mceclip2.png\" /><img src=\"{{context_path}}/content/resources/mceclip3.png\" /><img src=\"{{context_path}}/content/resources/mceclip4.png\" /><img src=\"{{context_path}}/content/resources/mceclip5.png\" width=\"846\" height=\"158\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412576867-kt8x4iw4y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos docentes</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412576867-kt8x4iw4y</odePageId>
+      <odeBlockId>block-1778414364084-icjvpf0dz</odeBlockId>
+      <blockName>Recursos para docentes</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412576867-kt8x4iw4y</odePageId>
+          <odeBlockId>block-1778414364084-icjvpf0dz</odeBlockId>
+          <odeIdeviceId>idevice-1778414364082-r98pr3eu1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Herramientas y recursos</strong></em><br />En este espacio se recogen herramientas digitales y recursos educativos útiles para el trabajo diario en el aula.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAbmvgc8AA41-5ENqAw==" title="Symbaloo - Recursos docentes">https://www.symbaloo.com/shared/AAAAAbmvgc8AA41-5ENqAw==</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778414364082-r98pr3eu1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Herramientas y recursos</strong></em><br />En este espacio se recogen herramientas digitales y recursos educativos útiles para el trabajo diario en el aula.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAbmvgc8AA41-5ENqAw==\" title=\"Symbaloo - Recursos docentes\">https://www.symbaloo.com/shared/AAAAAbmvgc8AA41-5ENqAw==</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778412586420-c4mbodav9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778412586420-c4mbodav9</odePageId>
+      <odeBlockId>block-1778414435059-l0gcbyen5</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778412586420-c4mbodav9</odePageId>
+          <odeBlockId>block-1778414435059-l0gcbyen5</odeBlockId>
+          <odeIdeviceId>idevice-1778414435058-kjcz6wmu0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Autora</strong></em><br />Sara Delgado Tirado</p>
+<p><em><strong>Proyecto</strong></em><br />El Gran Circo de las Mariposas</p>
+<p><em><strong>Nivel educativo</strong></em><br />4º de Educación Primaria</p>
+<p><em><strong>Licencia</strong></em><br />Creative Commons BY-NC-SA</p>
+<p><em><strong>Recursos utilizados</strong></em><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet</p>
+<p><br /><em>Este proyecto ha sido creado con fines educativos.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778414435058-kjcz6wmu0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Autora</strong></em><br />Sara Delgado Tirado</p>\n<p><em><strong>Proyecto</strong></em><br />El Gran Circo de las Mariposas</p>\n<p><em><strong>Nivel educativo</strong></em><br />4º de Educación Primaria</p>\n<p><em><strong>Licencia</strong></em><br />Creative Commons BY-NC-SA</p>\n<p><em><strong>Recursos utilizados</strong></em><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet</p>\n<p><br /><em>Este proyecto ha sido creado con fines educativos.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
